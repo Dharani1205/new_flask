@@ -1,0 +1,11 @@
+Eclipse IDE
+VS Code
+jdk-8u77-windows-x64
+azure CLI
+Maven
+Tetrraform CLI
+GoLang
+Microsoft .NET Framework
+
+
+24907741

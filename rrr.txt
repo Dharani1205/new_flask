@@ -1,0 +1,23 @@
+1) PATIENT MICRO - SERVICE USING FLASK (verified by postman)
+	
+	INDEX        ->  http://127.0.0.1:5000/
+	REGISTER     ->  http://127.0.0.1:5000/register
+	LOGIN        ->  http://127.0.0.1:5000/login
+	DOCTORS LIST ->  http://127.0.0.1:5000/list
+	APPOINTMENTS ->  http://127.0.0.1:5000/appointment
+	PAYMENT      ->  http://127.0.0.1:5000/payment
+
+
+2) PLURAL SIGHT ->  100%
+
+
+3) DOCKER  -> practiced on online instance
+              
+  	      mostly perfect in commands but got some errors 
+		
+	      practiced on O'Reilly (sandboxes) 
+
+alpine is a special container image with node tools preinstalled
+
+
+4) KUBERNETES  ->  practiced on O'Reilly (Screen shot)
